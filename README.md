@@ -27,26 +27,12 @@
 I am a passionate **Network & Security Specialist** dedicated to building secure, resilient infrastructure. With a strong foundation in Cloud Computing and Ethical Hacking, I focus on automating security workflows and optimizing network architecture.
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎓 Education</h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Uni" width="40"/>
-        <br>
-        <b>NSBM Green University</b><br>
-        BSc in Computer Networks<br>
-        <i>Focus: Network Security, Cloud & Ethical Hacking</i>
-      </td>
-      <td width="50%" align="center">
-        <h3>⚡ Current Focus</h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40"/>
-        <br>
-        <b>DevSecOps & Automation</b><br>
-        Implementing IaC with Terraform<br>
-        <i>Cloud Security Architecture</i>
-      </td>
-    </tr>
-  </table>
+  <h3>🎓 Education</h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Uni" width="40"/>
+  <br>
+  <b>NSBM Green University</b><br>
+  BSc in Computer Networks<br>
+  <i>Focus: Network Security, Cloud & Ethical Hacking</i>
 </div>
 
 ---
