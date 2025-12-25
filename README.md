@@ -38,8 +38,8 @@ I am a passionate **Network & Security Specialist** dedicated to building secure
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Tools.png" alt="Tools" width="30" height="30"/> Technical Arsenal
-
+### <font aling=center> Technical Arsenal </font>
+ 
 <div align="center">
 
 | **Category** | **Technologies** |
@@ -52,9 +52,7 @@ I am a passionate **Network & Security Specialist** dedicated to building secure
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Detective.png" alt="Detective" width="30" height="30"/> Featured Projects
-
-
+### 
 
 ---
 
