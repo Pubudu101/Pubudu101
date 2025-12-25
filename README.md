@@ -44,8 +44,8 @@ I am a passionate **Network & Security Specialist** dedicated to building secure
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Networking & Security** | <img src="https://skillicons.dev/icons?i=linux,bash,kalilinux,wireshark" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins" /> |
+| **Networking & Security** | <img src="https://skillicons.dev/icons?i=linux,kalilinux,wireshark" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" /> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git" /> |
 
 </div>
