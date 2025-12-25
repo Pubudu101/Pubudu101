@@ -38,9 +38,11 @@ I am a passionate **Network & Security Specialist** dedicated to building secure
 
 ---
 
-### <font aling=center> Technical Arsenal </font>
+
  
 <div align="center">
+  <h2>Technical Arsenal</h2>  
+
 
 | **Category** | **Technologies** |
 |:---:|:---|
