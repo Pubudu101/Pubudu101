@@ -54,11 +54,7 @@ I am a passionate **Network & Security Specialist** dedicated to building secure
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Detective.png" alt="Detective" width="30" height="30"/> Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Network Security Toolkit** | A custom Python-based vulnerability scanner with advanced threat detection capabilities and automated port scanning. | `Python` `Scapy` `Nmap` |
-| **Secure Cloud Infra** | Automated deployment of secure AWS infrastructure using Infrastructure as Code (IaC) principles with compliance monitoring. | `Terraform` `AWS` `GuardDuty` |
-| **NetFlow Analyzer** | Real-time C++ network traffic analysis tool utilizing machine learning for anomaly detection in packet flows. | `C++` `PCAP` `ML` |
+
 
 ---
 
