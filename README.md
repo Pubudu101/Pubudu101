@@ -18,6 +18,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/pubudu-chathuranga-94a6a42a8)
   [![GitHub followers](https://img.shields.io/github/followers/pubudu101?style=social)](https://github.com/pubudu101)
 
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
 ---
