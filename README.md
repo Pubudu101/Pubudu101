@@ -1,1 +1,226 @@
-<!-- Header / Banner Area --><div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0d1117%26height%3D300%26section%3Dheader%26text%3D%26fontSize%3D90" width="100%"/><div style="margin-top: -250px;"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26duration%3D3000%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DNetwork%2BSpecialist%3BCybersecurity%2BEnthusiast%3BCloud%2BEngineer%3BDevSecOps%2BPractitioner%3BNSBM%2BUndergraduate" alt="Typing SVG" /></div><h1 align="center">Hi, I'm <a href="https://linkedin.com/in/pubudu-chathuranga-94a6a42a8" target="_blank">Pubudu Chathuranga</a> <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1><p align="center"><a href="https://github.com/pubudu101"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NETWORK-SPECIALIST-0056D2%3Fstyle%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dwhite"/></a><a href="https://github.com/pubudu101"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SECURITY-RED_TEAM-D00000%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite"/></a><a href="https://github.com/pubudu101"><img src="https://www.google.com/search?q=https://img.shields.io/badge/CLOUD-ARCHITECT-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dazure%26logoColor%3Dwhite"/></a></p></div><!-- About Me Section --><div align="center"><h3>👨‍💻 About Me</h3></div><table align="center"><tr><td width="60%" valign="top">I am a <b>Network & Security Specialist</b> and a 3rd-year undergraduate at <b>NSBM Green University</b>. My passion lies in hardening infrastructure and automating security workflows.🚀 <b>Current Focus:</b> Developing web-based honeypots & CVE correlation systems.🔭 <b>Exploring:</b> Cloud Security, DevSecOps, and Ethical Hacking.💬 <b>Ask me about:</b> Network Architecture, Linux Hardening, and Python Automation.</td><td width="40%" align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyber Security GIF"/></td></tr></table><!-- Technical Arsenal --><div align="center"><h3>🛠 Technical Arsenal</h3><table align="center"><tr><td align="center" width="90"><b>Security</b></td><td align="center" width="90"><b>Network</b></td><td align="center" width="90"><b>Cloud</b></td><td align="center" width="90"><b>Code</b></td></tr><tr><td align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkalilinux,linux,wireshark" /></td><td align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnginx,grafana,arduino" /></td><td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" /></td><td align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,js,react,html,css" /></td></tr></table></div><!-- Analytics Dashboard --><div align="center"><h3>📈 GitHub Analytics</h3></div><div align="center"><table style="border: none;"><tr><td align="center" style="border: none;"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpubudu101%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26count_private%3Dtrue" alt="Stats" /></td><td align="center" style="border: none;"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpubudu101%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26langs_count%3D6" alt="Languages" /></td></tr></table><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dpubudu101%26theme%3Dradical%26hide_border%3Dtrue%26date_format%3DM%2520j%255B%252C%2520Y%255D%26background%3D0D1117%26ring%3D20C20E%26fire%3D20C20E%26currStreakNum%3D20C20E" alt="GitHub Streak" /></div><!-- Footer / Connect -->
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=90&animation=twinkling" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Network+Specialist+🔒;Cybersecurity+Enthusiast+🛡️;Cloud+Engineer+☁️;DevSecOps+Practitioner+⚙️;NSBM+Undergraduate+🎓" alt="Typing SVG" />
+</a>
+
+<!-- Profile Title -->
+<h1>
+  Hi there, I'm 
+  <a href="https://linkedin.com/in/pubudu-chathuranga-94a6a42a8" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=20C20E&center=true&vCenter=true&repeat=false&width=400&lines=Pubudu+Chathuranga" alt="Name" />
+  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NETWORK-SPECIALIST-0056D2?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Specialist"/>
+  <img src="https://img.shields.io/badge/SECURITY-RED_TEAM-D00000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security"/>
+  <img src="https://img.shields.io/badge/CLOUD-ARCHITECT-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/DevSecOps-Engineer-6A0DAD?style=for-the-badge&logo=gitlab&logoColor=white" alt="DevSecOps"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pubudu101&label=Profile%20Views&color=20C20E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pubudu101?label=Followers&style=for-the-badge&color=20C20E&logo=github" alt="Followers"/>
+</p>
+
+</div>
+
+---
+
+<!-- About Me Section with Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&repeat=false&width=435&lines=👨‍💻+About+Me" alt="About Me" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🚀 Who Am I?
+
+I am a **Network & Security Specialist** and a 3rd-year undergraduate at **NSBM Green University**. My passion lies in hardening infrastructure and automating security workflows.
+
+### 🔭 Current Focus
+- 🕸️ Developing **web-based honeypots** & **CVE correlation systems**
+- 🛡️ Building automated **threat detection** pipelines
+- 🔐 Implementing **Zero Trust Architecture** in cloud environments
+
+### 🌱 Exploring
+- ☁️ **Cloud Security** (AWS, Azure, GCP)
+- 🔄 **DevSecOps** & CI/CD Security
+- 🎯 **Ethical Hacking** & Penetration Testing
+- 🤖 **Security Automation** with Python
+
+### 💬 Ask Me About
+- 🌐 Network Architecture & Design
+- 🐧 Linux Hardening & System Administration
+- 🐍 Python Automation & Scripting
+- 🔒 Security Best Practices
+- ☁️ Cloud Infrastructure Security
+
+### 📫 How to Reach Me
+<p align="left">
+<a href="https://linkedin.com/in/pubudu-chathuranga-94a6a42a8" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:pubudu@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/pubudu101">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+<br clear="both">
+
+---
+
+<!-- Technical Arsenal -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&repeat=false&width=435&lines=🛠️+Technical+Arsenal" alt="Technical Arsenal" />
+</div>
+
+<br>
+
+### 🔐 Security & Penetration Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux" alt="Kali & Linux"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=&logoColor=white" alt="Nmap"/>
+</p>
+
+### 🌐 Networking & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,git" alt="Cloud & DevOps"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
+
+### 💻 Programming & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,bash,powershell" alt="Programming"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+</p>
+
+### 🎨 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,bootstrap" alt="Web Dev"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases"/>
+</p>
+
+---
+
+<!-- GitHub Statistics -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&repeat=false&width=435&lines=📈+GitHub+Analytics" alt="GitHub Analytics" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pubudu101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pubudu101&theme=radical&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E&dates=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubudu101&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pubudu101&theme=radical&hide_border=true&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&area=true&area_color=20C20E" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+<!-- Trophy Display -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pubudu101&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-C,-?" alt="Trophies"/>
+</div>
+
+---
+
+<!-- Featured Projects -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&repeat=false&width=435&lines=🚀+Featured+Projects" alt="Featured Projects" />
+</div>
+
+<br>
+
+<div align="center">
+  
+<!-- Replace these with your actual repositories -->
+<a href="https://github.com/pubudu101/honeypot-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pubudu101&repo=honeypot-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF" alt="Honeypot System"/>
+</a>
+
+<a href="https://github.com/pubudu101/cve-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pubudu101&repo=cve-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&text_color=FFFFFF" alt="CVE Tracker"/>
+</a>
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&repeat=false&width=435&lines=📊+Contribution+Activity" alt="Activity" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubudu101&theme=github-compact&hide_border=true&bg_color=0D1117&color=20C20E&line=20C20E&point=FFFFFF&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" alt="Quote"/>
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+### 💚 Show some love by starring ⭐ some repositories!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=20C20E&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting!+😊;Feel+free+to+connect+and+collaborate!+🤝;Let's+build+something+amazing+together!+🚀" alt="Footer" />
+
+</div>
+
+<!-- Credits -->
+<div align="center">
+  <sub>Made with ❤️ by Pubudu Chathuranga</sub>
+</div>
