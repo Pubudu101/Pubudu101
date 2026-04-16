@@ -189,8 +189,8 @@ Available   : Open to Internships & Collaborations ✅
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pubuduchathuranga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats Card" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduchathuranga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pubudu101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats Card" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pubudu101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" />
 
 </div>
 
@@ -198,7 +198,7 @@ Available   : Open to Internships & Collaborations ✅
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=pubuduchathuranga&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Pubudu101&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -206,7 +206,7 @@ Available   : Open to Internships & Collaborations ✅
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduchathuranga&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pubudu101&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
