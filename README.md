@@ -118,7 +118,6 @@ Available   : Open to Internships & Collaborations ✅
 |---|---|---|
 | CCNA (Cisco Certified Network Associate) | ██████████░░ 80% | 🔵 In Progress |
 | AWS Cloud Practitioner | ████████░░░░ 60% | 🔵 In Progress |
-| Ethical Hacking & Penetration Testing | ██████░░░░░░ 45% | 🔵 In Progress |
 | Linux System Administration | ████████████ 85% | 🟢 Advanced |
 | Docker & Containerization | █████░░░░░░░ 35% | 🟡 Learning |
 
@@ -190,26 +189,26 @@ Available   : Open to Internships & Collaborations ✅
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduchathuranga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduchathuranga&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduchathuranga&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduchathuranga&theme=tokyo-night&hide_border=true&area=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pubuduchathuranga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats Card" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduchathuranga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=pubuduchathuranga&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduchathuranga&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
 
 ## 🤝 Let's Connect
 
