@@ -219,7 +219,7 @@ I'm always open to learning, collaborating on projects, or just a good tech conv
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pubudu_Chathuranga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pubudu-chathuranga-94a6a42a8)
-[![Gmail](https://img.shields.io/badge/Gmail-pubudu%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pubuduchaturanga1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-pubuduchaturanga1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pubuduchaturanga1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@pubuduchathuranga-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pubudu101)
 
 </div>
